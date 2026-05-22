@@ -13,7 +13,7 @@ I _love_ these languages
 
 I use these to write my code
 
-<img src="./rustrover.svg" width="48">&nbsp;&nbsp;[![](https://skillicons.dev/icons?i=rider,clion,vscode)](https://skillicons.dev)
+<img src="./rustrover.svg" width="48">&nbsp;&nbsp;[![](https://skillicons.dev/icons?i=rider,clion)](https://skillicons.dev)&nbsp;&nbsp;<img src="./zed.svg" width="48">
 
 I use these to make my games
 
