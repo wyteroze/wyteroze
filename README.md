@@ -9,7 +9,7 @@ been at it since 2023 but I usually work on code that isn't on github, so I sadl
 ### my tools
 I _love_ these languages
 
-[![](https://skillicons.dev/icons?i=rust,cs,lua)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=rust,cs,zig,lua)](https://skillicons.dev)
 
 I use these to write my code
 
