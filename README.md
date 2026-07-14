@@ -20,4 +20,4 @@ I use these to make my games
 [![game software](https://skillicons.dev/icons?i=robloxstudio,blender,figma,obsidian)](https://skillicons.dev)
 
 ### misc
-check out [my programming language](https://github.com/shardai-lang/shardai-lang)!!!
+check out [my programming language](https://github.com/wyteroze/nib-lang)!!!
